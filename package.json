@@ -1,8 +1,6 @@
 {
   "name": "linkedin-scraper",
   "version": "1.0.0",
-  "description": "Puppeteer LinkedIn Profile Scraper",
-  "main": "scrapeLinkedIn.js",
   "scripts": {
     "start": "node scrapeLinkedIn.js"
   },
@@ -11,6 +9,6 @@
     "puppeteer": "^21.0.0"
   },
   "engines": {
-    "node": ">=18"
+    "node": "18"
   }
 }
